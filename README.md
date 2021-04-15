@@ -5,6 +5,7 @@
 ### Author: Ray Albert Pangilinan
 
 Creating Conda virtual environment: `conda install --file requirements_conda.txt`
+
 Creating pip virtual environment: `pip install -r requirements_pip.txt`
 
 To run:
