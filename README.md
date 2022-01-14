@@ -1,4 +1,4 @@
-# SYDE 552 Winter 2021 - Final Project
+# SYDE 552 - Final Project (University of Waterloo)
 
 ### Exploring Music Genre Classification using Dense Neural Networks
 
