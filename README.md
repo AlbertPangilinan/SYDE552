@@ -1,4 +1,4 @@
-# SYDE 552 - Final Project (University of Waterloo)
+# Computational Neuroscience - University of Waterloo
 
 ### Exploring Music Genre Classification using Dense Neural Networks
 
